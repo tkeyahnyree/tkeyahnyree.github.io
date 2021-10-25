@@ -1582,7 +1582,7 @@ input, select, textarea {
 			}
 
 /* Responsive Images */
-	.banner {
+	.banner img {
 		width: 100%;
 		height: auto;
 	}
