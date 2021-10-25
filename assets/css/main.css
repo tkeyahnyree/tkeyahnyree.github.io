@@ -1583,20 +1583,33 @@ input, select, textarea {
 
 /* Responsive Images */
 
-			@media screen and (max-width: 1028px) {
+			@media screen and (max-width: 1680px) {
 				.banner {
-					width: 800px;
+					width: 100%;
+					height: auto;
+				}
+			}
+
+			@media screen and (max-width: 1280px) {
+				.banner {
+					width: 100%;
 					height: auto;
 				}
 			}
 
 			@media screen and (max-width: 736px) {
 				.banner {
-					width: %600px;
+					width: 100%;
 					height: auto;
 				}
 			}
 
+			@media screen and (max-width: 360px) {
+				.banner {
+					width: 100%;
+					height: auto;
+				}
+			}
 
 /* Button */
 
