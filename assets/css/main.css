@@ -1582,9 +1582,12 @@ input, select, textarea {
 			}
 
 /* Responsive Images */
+
 	.banner img {
 		width: 100%;
 		height: auto;
+		padding-bottom: 50px;
+
 	}
 
 	.mockup-1 img {
@@ -1592,19 +1595,33 @@ input, select, textarea {
 		height: auto;
 	}
 
+	.mockup-2  {
+		padding-left: 5%;
+	}
+
 	.mockup-2 img {
 		width: 100%;
 		height: auto;
 	}
 
+	.mockup-3  {
+		padding-left: 15%;
+	}
+
 	.mockup-3 img {
-		width: 100%;
+		width: 30%;
 		height: auto;
+		padding: 10px;
+	}
+
+	.mockup-6  {
+		padding-left: 15%;
 	}
 
 	.mockup-6 img {
-		width: 100%;
+		width: 30%;
 		height: auto;
+		padding: 10px;
 	}
 
 /* Button */
