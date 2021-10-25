@@ -1592,6 +1592,21 @@ input, select, textarea {
 		height: auto;
 	}
 
+	.mockup-2 img {
+		width: 100%;
+		height: auto;
+	}
+
+	.mockup-3 img {
+		width: 100%;
+		height: auto;
+	}
+
+	.mockup-6 img {
+		width: 100%;
+		height: auto;
+	}
+
 /* Button */
 
 	input[type="button"],
