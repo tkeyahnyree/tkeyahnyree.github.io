@@ -1584,14 +1584,14 @@ input, select, textarea {
 /* Responsive Images */
 
 			@media screen and (max-width: 1028px) {
-				.banner img{
+				.banner {
 					width: 800px;
 					height: auto;
 				}
 			}
 
 			@media screen and (max-width: 736px) {
-				.banner img{
+				.banner {
 					width: %600px;
 					height: auto;
 				}
