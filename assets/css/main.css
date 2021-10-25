@@ -1581,39 +1581,6 @@ input, select, textarea {
 				margin: 0 auto;
 				width: auto;
 			}
-			@media screen and (max-width: 1280px) {
-
-				img {
-					padding: 42%;
-					width: 100%;
-				}
-
-			}
-
-			@media screen and (max-width: 980px) {
-
-				img {
-					padding: 1.5em 0;
-					max-width: calc(100% - 8em);
-				}
-
-			}
-
-			@media screen and (max-width: 736px) {
-
-				img {
-					padding: 1em 0;
-					max-width: calc(100% - 2em);
-				}
-
-			}
-
-			@media screen and (max-width: 360px) {
-
-				img {
-					padding: 1em 0;
-					max-width: 100%;
-				}
 
 
 /* Button */
