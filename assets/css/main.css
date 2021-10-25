@@ -1581,7 +1581,7 @@ input, select, textarea {
 				margin: 0 auto;
 				width: auto;
 			}
-			@media screen and (min-width: 1280px) {
+			@media screen and (max-width: 1280px) {
 
 				img {
 					padding: 42%;
@@ -1590,9 +1590,9 @@ input, select, textarea {
 
 			}
 
-		/*	@media screen and (max-width: 980px) {
+			@media screen and (max-width: 980px) {
 
-				#wrapper {
+				img {
 					padding: 1.5em 0;
 					max-width: calc(100% - 8em);
 				}
@@ -1601,7 +1601,7 @@ input, select, textarea {
 
 			@media screen and (max-width: 736px) {
 
-				#wrapper {
+				img {
 					padding: 1em 0;
 					max-width: calc(100% - 2em);
 				}
@@ -1610,10 +1610,10 @@ input, select, textarea {
 
 			@media screen and (max-width: 360px) {
 
-				#wrapper {
+				img {
 					padding: 1em 0;
 					max-width: 100%;
-				}*/
+				}
 
 
 /* Button */
