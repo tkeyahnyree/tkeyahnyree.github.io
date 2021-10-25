@@ -1586,14 +1586,14 @@ input, select, textarea {
 			@media screen and (max-width: 1028px) {
 				.banner img{
 					width: 100%;
-				height: auto;
+					height: auto;
 				}
 			}
 
 			@media screen and (max-width: 736px) {
 				.banner img{
 					width: 100%;
-				height: auto;
+					height: auto;
 				}
 			}
 
