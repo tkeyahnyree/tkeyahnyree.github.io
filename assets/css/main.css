@@ -1581,16 +1581,16 @@ input, select, textarea {
 				margin: 0 auto;
 				width: auto;
 			}
-			/*@media screen and (max-width: 1280px) {
+			@media screen and (max-width: 1280px) {
 
-				#wrapper {
+				img {
 					padding: 3em 0;
-					max-width: calc(100% - 6em);
+					max-width: calc(100% - 5em);
 				}
 
 			}
 
-			@media screen and (max-width: 980px) {
+		/*	@media screen and (max-width: 980px) {
 
 				#wrapper {
 					padding: 1.5em 0;
