@@ -1587,6 +1587,11 @@ input, select, textarea {
 		height: auto;
 	}
 
+	.mockup-1 {
+		width: 100%;
+		height: auto;
+	}
+
 /* Button */
 
 	input[type="button"],
