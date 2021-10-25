@@ -1590,6 +1590,14 @@ input, select, textarea {
 				}
 			}
 
+			@media screen and (max-width: 736px) {
+				.banner img{
+					width: 100%;
+				height: auto;
+				}
+			}
+
+
 /* Button */
 
 	input[type="button"],
