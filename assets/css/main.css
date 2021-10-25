@@ -1581,6 +1581,15 @@ input, select, textarea {
 				width: auto;
 			}
 
+/* Responsive Images */
+
+			@media screen and (max-width: 1028px) {
+				.banner img{
+					width: 100%;
+				height: auto;
+				}
+			}
+
 /* Button */
 
 	input[type="button"],
