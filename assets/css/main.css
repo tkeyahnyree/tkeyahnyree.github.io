@@ -1553,11 +1553,6 @@ input, select, textarea {
 		.image img {
 			display: block;
 			width: 100%;
-<<<<<<< HEAD
-
-=======
-			max-width: 800px;
->>>>>>> parent of 1891111 (Image fix)
 		}
 
 		.image.fit {
@@ -1585,7 +1580,6 @@ input, select, textarea {
 				margin: 0 auto;
 				width: auto;
 			}
-
 
 /* Button */
 
