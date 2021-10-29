@@ -1581,18 +1581,26 @@ input, select, textarea {
 				width: auto;
 			}
 
+/* Headers from Bootstrap */
+
+.featurette-heading {
+	padding-bottom: 25px;
+}
+
+
 /* Responsive Images */
 
 	.banner img {
 		width: 100%;
 		height: auto;
 		padding-bottom: 50px;
-
 	}
+
 
 	.mockup-1 img {
 		width: 100%;
 		height: auto;
+
 	}
 
 	.mockup-2  {
@@ -1600,8 +1608,9 @@ input, select, textarea {
 	}
 
 	.mockup-2 img {
-		width: 100%;
+		width: 49.5%;
 		height: auto;
+		padding: 0, 50px;
 	}
 
 	.mockup-3  {
@@ -1623,6 +1632,59 @@ input, select, textarea {
 		height: auto;
 		padding: 10px;
 	}
+
+	.prototype-btn button {
+		background: #F2F2F2;
+		border-radius: 5px;
+		font-size: 1rem;
+		width: 175px;
+		height: auto;
+	}
+	.prototype-btn a:link {
+		text-decoration: none;
+		color: #878787;
+	}
+	.prototype-btn a:visited {
+		color: #878787;
+	}
+
+	.prototype-btn a:hover {
+		color: #27732C;
+	}
+
+	.profile {
+		padding: 50px;
+		width: 33%;
+		height: auto;
+		display: inline-block;
+
+	}
+	.profile img {
+		margin-left: 30px;
+	}
+
+	.contact-btn {
+		padding-left: 15px;
+	}
+	.contact-btn button {
+		background: #27732C;
+		border-radius: 5px;
+		font-size: 1.3rem;
+		width: 200px;
+		height: auto;
+		color: #f1f1f1
+	}
+	.contact-btn a:link {
+		text-decoration: none;
+	}
+	.contact-btn a:visited {
+		color: #f1f1f1;
+	}
+
+	.contact-btn a:hover {
+		color: #BF7E04;
+	}
+
 
 /* Button */
 
